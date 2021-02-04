@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+.vs/SFML_RuleBasedSystem/v16/Browse.VC.db
+.vs/SFML_RuleBasedSystem/v16/.suo
